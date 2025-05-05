@@ -14,8 +14,6 @@ If you are new to those protocol, refer to [the documentation](https://mmdetecti
 
     PPDD
     ├── datasets                # dataset root directory
-            ├── PPMI_SPECT_816PD212NC.npy     # 123I-DaTscan SPECT dataset
-            ├── PPMI_F18AV133_36PD1NC.npy     # 18F-AV133 PET dataset
     ├── mmdetection
     ├── mmsegmentation
     ├── visualization_mmdet
